@@ -5,3 +5,4 @@
 8/14 Webアプリ開発　ミニアプリJustParry作成
 8/15 Webアプリ開発　ミニアプリJustParry修正
 8/17 Webアプリ開発　Debu Prison Meals機能追加など
+8/18 Webアプリ開発　Debu Prison ダッシュボード修正など、Paiza
