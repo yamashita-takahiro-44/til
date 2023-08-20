@@ -7,3 +7,4 @@
 8/17 Webアプリ開発　Debu Prison Meals機能追加など
 8/18 Webアプリ開発　Debu Prison ダッシュボード修正など、Paiza
 8/19 デバッグ勉強会参加 Paiza
+8/20 Paiza
