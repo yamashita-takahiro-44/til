@@ -9,3 +9,6 @@
 8/19 デバッグ勉強会参加 Paiza
 8/20 Paiza
 8/21 Paiza
+8/22 Paiza
+8/23 Paiza
+8/24 Paiza
