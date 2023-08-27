@@ -13,3 +13,5 @@
 8/23 Paiza
 8/24 Paiza
 8/25 Paiza
+8/26 Paiza
+8/27 Paiza
