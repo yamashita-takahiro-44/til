@@ -15,3 +15,5 @@
 8/25 Paiza
 8/26 Paiza
 8/27 Paiza
+8/28 Webアプリ開発　Paiza
+9/5 Webアプリ開発
